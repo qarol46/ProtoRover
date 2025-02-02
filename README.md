@@ -1,8 +1,8 @@
 # ProtoRover
 # Robot project for practicing fundamental robotics concepts
 
-![Робот](путь_к_фотографии.jpg)  
-*Примечание: Замените "путь_к_фотографии.jpg" на фактический путь к вашему изображению.*
+![Робот](photo_2025-02-02_13-57-17.jpg)  
+
 
 ## Описание проекта
 
